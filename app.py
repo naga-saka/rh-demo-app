@@ -51,7 +51,7 @@ def delete_all_logs():
     
 
 # 項目表示用
-title = "ライフログですよ"
+title = "これはライフログですよ"
 name1 = "項目"
 name2 = "場所"
 memo = "メモ"
