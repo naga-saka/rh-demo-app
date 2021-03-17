@@ -60,7 +60,7 @@ p {
    
   input::placeholder,
   textarea::placeholder {
-    color: #ccc;
+    color: #Fcc;
   }
    
   ::-webkit-input-placeholder {
